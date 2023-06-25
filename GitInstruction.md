@@ -56,3 +56,5 @@ git checkout -b new_branch
 ```
 
 Список веток в репозитории можно посмотреть в помощью команды `git branch`
+
+# 10. Слияние веток и hfphtitybt rjyakbrnjd
