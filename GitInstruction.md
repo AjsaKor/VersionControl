@@ -55,3 +55,4 @@ git branch new_branch
 git checkout -b new_branch
 ```
 
+Список веток в репозитории можно посмотреть в помощью команды `git branch`
